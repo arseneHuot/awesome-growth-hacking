@@ -60,6 +60,8 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthverse](http://www.growthverse.com/welcome)
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
+* [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
+* [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
