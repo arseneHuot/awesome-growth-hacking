@@ -60,6 +60,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthverse](http://www.growthverse.com/welcome)
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
+* [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
