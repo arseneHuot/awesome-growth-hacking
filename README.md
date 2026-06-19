@@ -60,6 +60,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthverse](http://www.growthverse.com/welcome)
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (~2.9k stars, MIT)
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
