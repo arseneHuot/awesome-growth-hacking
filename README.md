@@ -21,6 +21,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growth Hacking Roadmap](http://www.slideshare.net/MarkDAndersen/growth-hacking-roadmap?qid=8493d8c5-507c-4669-b29d-8f767a887edf&v=qf1&b=&from_search=60)
  
 #### Resources
+* [The Free X Growth Course](https://slappost.app/learn/) - 5 free no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel
 * [Growthtools](http://growthtools.io)
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources](http://autosend.io/growth-hacker-resources/)
