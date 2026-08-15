@@ -21,6 +21,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growth Hacking Roadmap](http://www.slideshare.net/MarkDAndersen/growth-hacking-roadmap?qid=8493d8c5-507c-4669-b29d-8f767a887edf&v=qf1&b=&from_search=60)
  
 #### Resources
+* [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D), scored for sales relevance, so growth teams reach out while the timing is hottest.
 * [Growthtools](http://growthtools.io)
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources](http://autosend.io/growth-hacker-resources/)
