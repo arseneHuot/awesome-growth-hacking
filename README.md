@@ -24,7 +24,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthtools](http://growthtools.io)
 * [Growth Hackers Community](https://growthhackers.com/) - Unlocking Growth. Together.
 * [Ultimate Growth Hacker Resources](http://autosend.io/growth-hacker-resources/)
-* [Reddit Channel](http://www.reddit.com/r/GrowthHacking)
+* [Reddit Channel](https://www.reddit.com/r/GrowthHacking)
 * [Blogs](http://zack.onisko.com/50-growth-hacker-blogs-to-follow/) - 50+ Growth hacker blogs to follow
 * [Great Growth Hacking List](http://www.quora.com/Where-can-I-find-a-list-overview-of-growth-hacks)
 * [Become Growth Hacker](https://blog.kissmetrics.com/learn-growth-hacking/) - 35 Resources to Help You Become a Growth Hacker
@@ -60,6 +60,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthverse](http://www.growthverse.com/welcome)
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
