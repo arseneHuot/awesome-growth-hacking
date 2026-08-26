@@ -65,20 +65,20 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthverse](http://www.growthverse.com/welcome)
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
-* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (~2.9k stars, MIT)
+* [NotFair](https://github.com/nowork-studio/notfair-plugin) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (MIT)
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [PageGuard](https://pageguard.org) - Free website health scanner: instant SEO audit, Core Web Vitals, and accessibility check. Fix issues hurting your organic growth and conversions. No login required.
 * [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
 * [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
 * [SocialBu](https://socialbu.com/) - AI-powered social media management and automation platform for scheduling, publishing, and growing your social presence.
 * [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts (450M+), run email + LinkedIn campaigns, enroll prospects. CLI with JSON output.
-* [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
+* [Max CLI](https://github.com/sortlist/max-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
 * [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 11 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
 * [Scrupp](https://scrupp.com) - Chrome extension that extracts verified emails and phones from LinkedIn Sales Navigator, with waterfall verification and CSV/Google Sheets export.
 * [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 * [MarketiStats](https://marketistats.com) - Multi-channel marketing analytics dashboard (social, SEO, outreach, affiliates, paid ads) for SaaS founders
 * [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product signals + CRM and surfaces the warmest leads for sales.
-- [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+* [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
