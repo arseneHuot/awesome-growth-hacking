@@ -65,6 +65,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growthverse](http://www.growthverse.com/welcome)
 * [Chrome extension for growth hackers](http://growthrocks.com/blog/chrome-extensions/)
 * [Ladder](https://ladder.io)
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (~2.9k stars, MIT)
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [PageGuard](https://pageguard.org) - Free website health scanner: instant SEO audit, Core Web Vitals, and accessibility check. Fix issues hurting your organic growth and conversions. No login required.
 * [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
