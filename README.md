@@ -73,6 +73,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts (450M+), run email + LinkedIn campaigns, enroll prospects. CLI with JSON output.
 * [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
 * [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 11 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
+* [Scrupp](https://scrupp.com) - Chrome extension that extracts verified emails and phones from LinkedIn Sales Navigator, with waterfall verification and CSV/Google Sheets export.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
