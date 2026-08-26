@@ -67,6 +67,8 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Ladder](https://ladder.io)
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [PageGuard](https://pageguard.org) - Free website health scanner: instant SEO audit, Core Web Vitals, and accessibility check. Fix issues hurting your organic growth and conversions. No login required.
+* [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
+* [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
