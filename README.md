@@ -70,6 +70,8 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
 * [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
 * [SocialBu](https://socialbu.com/) - AI-powered social media management and automation platform for scheduling, publishing, and growing your social presence.
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts (450M+), run email + LinkedIn campaigns, enroll prospects. CLI with JSON output.
+* [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. CLI with JSON output.
 
 #### Books
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1407249176&sr=8-1&keywords=lean+startup&tag=zeef-20)
