@@ -19,6 +19,7 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 * [Growth hacking guid](http://www.slideshare.net/DavidArnoux1/growth-hacking-guide-mindset-framework-and-tools)
 * [Guide to growth hacking](http://www.quicksprout.com/2013/08/26/the-definitive-guide-to-growth-hacking/)
 * [Growth Hacking Roadmap](http://www.slideshare.net/MarkDAndersen/growth-hacking-roadmap?qid=8493d8c5-507c-4669-b29d-8f767a887edf&v=qf1&b=&from_search=60)
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
  
 #### Resources
 * [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D), scored for sales relevance, so growth teams reach out while the timing is hottest.
